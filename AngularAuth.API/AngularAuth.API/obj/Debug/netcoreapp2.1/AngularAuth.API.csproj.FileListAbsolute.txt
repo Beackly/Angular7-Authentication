@@ -1,0 +1,14 @@
+D:\repos\AngularAuth.API\AngularAuth.API\bin\Debug\netcoreapp2.1\AngularAuth.API.deps.json
+D:\repos\AngularAuth.API\AngularAuth.API\bin\Debug\netcoreapp2.1\AngularAuth.API.runtimeconfig.json
+D:\repos\AngularAuth.API\AngularAuth.API\bin\Debug\netcoreapp2.1\AngularAuth.API.runtimeconfig.dev.json
+D:\repos\AngularAuth.API\AngularAuth.API\bin\Debug\netcoreapp2.1\AngularAuth.API.dll
+D:\repos\AngularAuth.API\AngularAuth.API\bin\Debug\netcoreapp2.1\AngularAuth.API.pdb
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.csprojAssemblyReference.cache
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.csproj.CoreCompileInputs.cache
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.RazorAssemblyInfo.cache
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.RazorAssemblyInfo.cs
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.AssemblyInfoInputs.cache
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.AssemblyInfo.cs
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.RazorTargetAssemblyInfo.cache
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.dll
+D:\repos\AngularAuth.API\AngularAuth.API\obj\Debug\netcoreapp2.1\AngularAuth.API.pdb
