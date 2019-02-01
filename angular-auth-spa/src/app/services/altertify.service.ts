@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-declare let altertify: any; 
+declare let alertify: any; 
 
 
 @Injectable({
@@ -10,17 +10,17 @@ export class AltertifyService {
 constructor() { }
 
 success(message: string){
- altertify.success(message);
+ alertify.success(message);
 
 }
 
 warning(message: string){
-  altertify.warning(message);
+  alertify.warning(message);
   
   }
 
-  error(message: string){
-    altertify.error(message);
+ error(message: string){
+  alertify.error(message);
     
     }
 
