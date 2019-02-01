@@ -26,7 +26,7 @@ login(loginUser:LoginUser){
     this.saveToken(data);
     this.userToken = data;
     this.decodedToken = this.jwtHelper.decodeToken(data.toString());
-    this.alertifyService.success("Sisteme Giris Yapıldı.");         // Success Login Alert
+    this.alertifyService.success("Logged In Successfully.");         // Success Login Alert
     this.router.navigateByUrl("/hobbies");               // route the home page after login
   });
 
@@ -41,7 +41,7 @@ login(loginUser:LoginUser){
   logOut(){
 
     localStorage.removeItem(this.TOKEN_KEY);
-    this.alertifyService.error("Sisteme Giris Yapıldı."); 
+    this.alertifyService.error("Logged Out Successfully."); 
   }
 
   loggedIn(){
